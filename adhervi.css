@@ -80,5 +80,10 @@ img{
     display:block;
     margin:auto;
     }
-
-
+div, iframe {
+        float: center;
+        width: 800px;
+        height: 700px;
+        margin: 2% auto;
+              
+    }
